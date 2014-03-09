@@ -2,15 +2,15 @@ CORDIC IP CORE END-USER LICENSE AGREEMENT
 =========================================
 
 1. Definitions
-1.1 “Generated IP-Core”, “IP-Core", "IP-CORE", "IP CORE" or "Licensed Materials" 
+1.1 "Generated IP-Core", "IP-Core", "IP-CORE", "IP CORE" or "Licensed Materials" 
 shall mean all design data files distributed within the "cordic-v1.0.0" package.
 1.2 "Licensor" shall mean the following people: Nikolaos Kavvadias 
 <nikos@nkavvadias.com>. 
 1.3 "Copyright holder" shall mean: Nikolaos Kavvadias <nikos@nkavvadias.com>. 
-1.4 “Licensee” or “You” shall mean any recipient of the Licensed Materials 
+1.4 "Licensee" or "You" shall mean any recipient of the Licensed Materials 
 in any applicable for. The Licensee accepts to obtain the CORDIC IP CORE 
 subject to the terms and conditions of this Agreement.
-1.5 “Agreement" shall mean this document.
+1.5 "Agreement" shall mean this document.
 
 2. Restrictions
 Licensee shall not use the Licensed Materials for any purpose that involves 
