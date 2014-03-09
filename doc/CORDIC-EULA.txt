@@ -22,42 +22,32 @@ of scientific publications without reproduction of any part of the IP-Core.
 Licensee may make unlimited copies of the Licensed Materials solely for backup 
 or archival purposes. 
 
-3. Non-Disclosure
-Licensee shall keep the Licensed Materials in confidence. Licensee shall not 
-make the Licensed Materials available in any form to any person other than 
-Licensee.
-
-4. Prohibition on Reverse Engineering, Decompilation, and Disassembly
-You may not reverse engineer, decompile, or disassemble the Licensed Materials, 
-except and only to the extent that such activity is expressly permitted by 
-applicable law notwithstanding this limitation. 
-
-5. Non-Transferable
+3. Non-Transferable
 Licensee shall not distribute, rent, lend, loan, lease, sublease, assign, 
 transfer, license, or sublicense the Licensed Materials in whole or in part to a  
 third party without express written permission from Licensor.
 
-6. Intellectual Property Rights
-6.1 The Licensee acknowledges that Copyright Holder shall retain sole right, 
+4. Intellectual Property Rights
+4.1 The Licensee acknowledges that Copyright Holder shall retain sole right, 
 title, and ownership of the IP-Core and all intellectual property rights 
 (including patents, copyrights, trade secrets, trade names, trademarks and 
 invention disclosures) related to the IP-Core, including, but not limited to, 
 any and all improvements, modifications or derivatives thereof.
-6.2 This Agreement does not grant the Licensee any rights to any patents, 
+4.2 This Agreement does not grant the Licensee any rights to any patents, 
 copyrights, trade secrets, trade names, trademarks, or any other rights or 
 licenses with respect to the IP-Core except those granted in Section 2.
-6.3 The Licensee agrees to maintain the secrecy of the contents of the IP-Core 
+4.3 The Licensee agrees to maintain the secrecy of the contents of the IP-Core 
 and to implement adequate safeguards to prevent and protect the contents of the 
 IP-Core from unauthorized use or disclosure.
 
-7. Termination
+5. Termination
 This License Agreement is effective until terminated. Licensee may terminate it 
 at any time by destroying all copies of the Licensed Materials. In the event 
 Licensee fails to comply with any term of this License Agreement, this License 
 Agreement will terminate immediately, and Licensee must destroy all copies of 
 the Licensed Materials.
 
-8. Critical Applications - Limitation of Liability
+6. Critical Applications - Limitation of Liability
 THE IP-CORE IS NOT INTENDED TO BE FAIL-SAFE, OR FOR USE IN AN APPLICATION 
 REQUIRING FAIL-SAFE PERFORMANCE, SUCH AS LIFESUPPORT SYSTEMS, SAFETY DEVICES, 
 NUCLEAR FACILITIES, WEAPONS OR WEAPONS SYSTEMS, HAZARDOUS SUBSTANCE MANAGEMENT 
@@ -69,7 +59,7 @@ AGREE TO INDEMNIFY AND HOLD HARMLESS LICENSOR FROM ANY CLAIMS, LOSSES, COSTS,
 DAMAGES, EXPENSES OR LIABILITY, INCLUDING LEGAL FEES, ARISING OUT OF OR IN 
 CONNECTION WITH SUCH USE.
 
-9. Limited Warranty and Disclaimer
+7. Limited Warranty and Disclaimer
 EXCEPT AS EXPRESSLY STATED ABOVE, THE LICENSED MATERIALS ARE PROVIDED TO 
 LICENSEE "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, 
 INCLUDING, BUT NOT LIMITED TO, NONINFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR 
@@ -80,11 +70,11 @@ FURTHERMORE, LICENSOR DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING USE
 OR THE RESULTS OF THE USE OF THE IP-CORE IN TERMS OF CORRECTNESS, ACCURACY, 
 RELIABILITY OR OTHERWISE.
 
-10. Governing Law
-10.1 This Agreement shall be governed by and construed under the laws of Greece 
+8. Governing Law
+8.1 This Agreement shall be governed by and construed under the laws of Greece 
 and the Greek courts shall have exclusive jurisdiction to hear all matters 
 arising out of this Agreement.
-10.2 If any provision of this Agreement is held by a court of competent 
+8.2 If any provision of this Agreement is held by a court of competent 
 jurisdiction to be void, invalid, unenforceable or illegal, such provision shall 
 be severed from this Agreement and the remaining provisions will remain in full 
 force and effect.
